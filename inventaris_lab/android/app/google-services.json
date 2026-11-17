@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196556019186",
+    "project_id": "inventaris-lab-63f5a",
+    "storage_bucket": "inventaris-lab-63f5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196556019186:android:a26f74fb35f5e42b44c76b",
+        "android_client_info": {
+          "package_name": "com.example.inventaris_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXjDACgfSUNXZWo4Ubarejf5BlYzh5n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
